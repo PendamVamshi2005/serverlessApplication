@@ -28,10 +28,7 @@ Follow these steps to start the application components on your local machine.
    npm start
    ```
 
-### 3. View the Application
 
-> [!TIP]
-> If the cards don't show up immediately, refresh the page with **Ctrl + F5**.
 
 
 
